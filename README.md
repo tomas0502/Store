@@ -199,6 +199,11 @@ Thank you to all our backers! [[Become a backer](https://opencollective.com/ceze
 
 ### Sponsors
 
+
+
+
+
+
 Thank you to all our sponsors! (please ask your company to also support this open source project by [becoming a sponsor](https://opencollective.com/cezerin3#sponsor))
 https://www.paypal.com/paypalme/himadu1
 <a href="https://opencollective.com/cezerin3#sponsor" target="_blank"><img src="https://opencollective.com/cezerin3/tiers/sponsor.svg?avatarHeight=36&width=600"></a>
