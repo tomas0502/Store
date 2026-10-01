@@ -10,7 +10,7 @@ Cezerin - Ecommerce Progressive Web App. Complete Solution.
 
 ## Quick Start
 
-1. Download from https://github.com/Cezerin3/Store/archive/main.zip
+1. Download from https://github.com/Cezerin3/Store/archive/main.zip.
 2. Extract file with zip extacter such as 7zip
 3. You must have,
 
